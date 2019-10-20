@@ -8,7 +8,7 @@ markdown: kramdown
 is_registration_open: false
 
 # This flag means that event is in progress, otherwise need to transform to cooming soon page
-is_in_progress: false
+is_in_progress: true
 
 previous_events:
     - name: "2018"
